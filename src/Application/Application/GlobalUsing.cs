@@ -1,0 +1,11 @@
+﻿global using Application.Common;
+global using Microsoft.EntityFrameworkCore;
+global using Application.Models;
+global using System.Reflection;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using Application.Data;
+global using Application.Dtos;
+global using Shared.CQRS;
+global using AutoMapper;
+global using FluentValidation;
+global using Shared.Exceptions;
